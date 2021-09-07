@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/Black.unity
+    guid: 5f222076eb6a46440966bd7eb943e09d
+  - enabled: 1
+    path: Assets/Scenes/Startup Screen.unity
+    guid: fe0a701ae224ae846b1d37e57fea2c1f
+  - enabled: 1
+    path: Assets/Scenes/Main Menu.unity
+    guid: 1a6a41e00d859f344a097a2525f44146
+  - enabled: 1
+    path: Assets/Scenes/Sound Settings/Sound.unity
+    guid: 3e9633fe1aac30f4598d44e6c0305303
+  - enabled: 1
+    path: Assets/Scenes/SampleScene.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Pre Stage/PreStage1.unity
+    guid: b024f7dd2c517054dafcc56481261c37
+  - enabled: 1
+    path: Assets/Scenes/Stage1.unity
+    guid: 9c1872adc497e774a97cbb3f6afe11cd
+  - enabled: 1
+    path: Assets/Scenes/Post Stage/Post Stage 1-2.unity
+    guid: 3b2efcc47c61749428ddd1b3a777b36b
+  - enabled: 0
+    path: Assets/Scenes/Pre Stage/PreStage2.unity
+    guid: 997f7895149fffb418c03ce1da911d59
+  - enabled: 0
+    path: Assets/Scenes/Stage2.unity
+    guid: d71f4f30e2b2a4044ac2a65c12dd5129
+  - enabled: 0
+    path: Assets/Scenes/Pre Stage/PreStage3.unity
+    guid: 11ae087a03678224d998b62c1b436774
+  - enabled: 0
+    path: Assets/Scenes/Stage3.unity
+    guid: 43b3d1aa399aa2849892be806220722c
+  - enabled: 1
+    path: Assets/Scenes/GameOver.unity
+    guid: 85a3451a62f5a6f4dbf4a1f48b0be618
+  - enabled: 1
+    path: Assets/Scenes/Ending.unity
+    guid: f479bded4b631654ab693ab615bf7f42
+  - enabled: 1
+    path: Assets/Scenes/GameOver.unity
+    guid: 85a3451a62f5a6f4dbf4a1f48b0be618
+  m_configObjects: {}
